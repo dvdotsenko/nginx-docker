@@ -1,0 +1,6 @@
+# Markup like this:
+#  ${HOSTNAME}
+# will be expanded to value of HOSTNAME env var,
+# while this:
+#  $HOSTNAME
+# will remain untouched
